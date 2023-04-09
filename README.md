@@ -23,7 +23,7 @@ To play:
 
 # Credits
 
-OCaml language : https://ocaml.org/
-ocaml-canvas library : https://ocamlpro.github.io/ocaml-canvas/
+OCaml language : https://ocaml.org/  
+ocaml-canvas library : https://ocamlpro.github.io/ocaml-canvas/  
 Sprites : https://kenney.nl/  
 Sokoban levels : https://github.com/begoon/sokoban-maps  
