@@ -1,0 +1,4 @@
+(executable
+ (public_name Ocaban)
+ (name main)
+ (libraries Ocaban react ocaml-canvas))
