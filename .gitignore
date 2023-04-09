@@ -1,3 +1,6 @@
+# emacs
+*~
+# OCaml default .gitignore
 *.annot
 *.cmo
 *.cma
