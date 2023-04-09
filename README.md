@@ -10,17 +10,16 @@ dune exec Ocaban
 
 To play:
 
-* cursor keys move the character
-* Page Up / Page Down to change the level
-* Backspace to undo moves
+* Cursor keys : move the character
+* Page Up / Page Down : change level
+* Backspace key : undo moves
 
 # How I got this ready for upload
 
 * dune init project Ocaban
-* dune exec Ocaban works as expected
-* Copied main.ml, level.ml in the ./bin sub-folder
-* added ocaml-canvas and react to ./bin/dune file
-* created ./assets and copied the PNG file in there
+* Copied main.ml, levels.ml in the ./bin sub-folder
+* added libraries ocaml-canvas and react to the ./bin/dune file
+* created ./assets and copied the spritesheet PNG file
 
 # Credits
 
