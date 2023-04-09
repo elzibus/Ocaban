@@ -5,6 +5,13 @@ To execute the program:
 ```
 dune exec Ocaban
 ```
+
+To play:
+
+* cursor keys move the character
+* Page Up / Page Down to change the level
+* Backspace to undo moves
+
 # Credits
 
 OCaml language : https://ocaml.org/
