@@ -21,6 +21,10 @@ To play:
 * added libraries ocaml-canvas and react to the ./bin/dune file
 * created ./assets and copied the spritesheet PNG file
 
+# Play
+
+You can play the game here: https://elzibus.github.io/
+
 # Credits
 
 OCaml language : https://ocaml.org/  
